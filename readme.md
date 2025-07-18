@@ -8,7 +8,7 @@ git clone https://github.com/Winzliu/Photostrip.git
 ```
 ### 2. Move Project to `www/` Directory
 ```bash
-mv Photostrip "C:/laragon/www/your-project-folder"
+mv Photostrip "C:/laragon/www/Photostrip"
 ```
 ### 3. Install Dependencies
 ```bash
